@@ -430,7 +430,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -1132,3 +1132,9 @@ section {
 /* #skills{
   margin-left: 70px;
 } */
+
+.cvBtn {
+  left: 70px;
+  position: fixed;
+  bottom: -1px;
+}
