@@ -1128,6 +1128,7 @@ section {
   margin: 0px 60px;
   text-align: justify;
   margin-top: 10px;
+  margin-bottom: 18px;
 }
 
 #imageMeAbout {
@@ -1142,4 +1143,7 @@ section {
   left: 70px;
   position: fixed;
   bottom: -1px;
+}
+.cvBtn a {
+  margin: -30px 0px;
 }
